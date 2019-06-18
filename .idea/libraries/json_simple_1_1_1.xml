@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="json-simple-1.1.1">
+    <CLASSES>
+      <root url="jar://F:/Downloads/json-simple-1.1.1.jar!/" />
+      <root url="jar://F:/Downloads/org.apache.commons.io.jar!/" />
+      <root url="jar://F:/Downloads/sqlite-jdbc-3.27.2.1.jar!/" />
+      <root url="jar://F:/Downloads/apache-commons-net.jar!/" />
+      <root url="jar://F:/Downloads/json-simple-ordered-2.24.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/Downloads/java-json.jar!/" />
+      <root url="jar://F:/Downloads/apache-commons-net.jar!/" />
+    </SOURCES>
+  </library>
+</component>
